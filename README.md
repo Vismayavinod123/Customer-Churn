@@ -8,6 +8,8 @@ INTRODUCTION
  -Churn is predominant in telecom industry.
  
  CHURN PARAMETERS:
+ 
+
  -Customer demography    
 		 Age, Income, Occupation, Marital status
  -Spend tendencies   
